@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zehrasudearslan&label=Profile%20views&color=0e75b6&style=flat" alt="zehrasudearslan" /> </p>
 
-- 🌱 I’m currently learning **network security**
+- 🌱 I’m currently learning **cyber security**
 
 - 📫 How to reach me **zehrasude.arslan@gmail.com**
 
