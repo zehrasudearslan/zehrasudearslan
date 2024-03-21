@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sude</h1>
-<h3 align="center">I want to be network enginer. Also I'm interested Python.</h3>
+<h3 align="center">I want to be cyber security enginer. Also I'm interested Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zehrasudearslan&label=Profile%20views&color=0e75b6&style=flat" alt="zehrasudearslan" /> </p>
 
